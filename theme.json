@@ -1,0 +1,14 @@
+{
+  "name": "Dareen Luxury Gold",
+  "id": "dareen-luxury-gold",
+  "description": "ثيم فخم لمتاجر الذهب - اوف وايت وبيج ملكي",
+  "version": "1.0.0",
+  "colors": {
+    "primary": "#B78E3F",
+    "primary_dark": "#8C6A2F",
+    "bg_offwhite": "#FEFBF6",
+    "bg_beige": "#E8DCC6",
+    "bg_beige_light": "#F5EFE3",
+    "text_dark": "#2B2117"
+  }
+}
