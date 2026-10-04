@@ -1,14 +1,18 @@
 {
   "name": "Dareen Luxury Gold",
   "id": "dareen-luxury-gold",
-  "description": "ثيم فخم لمتاجر الذهب - اوف وايت وبيج ملكي",
+  "description": "ثيم فخم لمتاجر الذهب - خلفية اوف وايت وبيج فاخر - خط ناعم Tajawal Light - يدعم مجموعات الزمرد والألماس",
   "version": "1.0.0",
   "colors": {
-    "primary": "#B78E3F",
-    "primary_dark": "#8C6A2F",
-    "bg_offwhite": "#FEFBF6",
-    "bg_beige": "#E8DCC6",
-    "bg_beige_light": "#F5EFE3",
-    "text_dark": "#2B2117"
+    "primary": "#C6A86B",
+    "primary_dark": "#1A1A1A",
+    "bg_offwhite": "#F9F6F0",
+    "bg_beige": "#F5F1E8",
+    "bg_beige_light": "#FFFBF5",
+    "text_dark": "#1A1A1A"
+  },
+  "fonts": {
+    "main": "Tajawal",
+    "weight": "300"
   }
 }
